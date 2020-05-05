@@ -28,3 +28,18 @@ C:\Users\Maragani jagadeesh\Contacts\Desktop\CasrStudy@CouponManagement\CouponsM
 C:\Users\Maragani jagadeesh\Contacts\Desktop\CasrStudy@CouponManagement\CouponsManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.dll
 C:\Users\Maragani jagadeesh\Contacts\Desktop\CasrStudy@CouponManagement\CouponsManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.pdb
 C:\Users\Maragani jagadeesh\Contacts\Desktop\CasrStudy@CouponManagement\CouponsManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.genruntimeconfig.cache
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.deps.json
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.runtimeconfig.json
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.runtimeconfig.dev.json
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.dll
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\CouponManagementDBEntity.pdb
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.dll
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\bin\Debug\netcoreapp3.1\SHR_Model.pdb
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.csprojAssemblyReference.cache
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.csproj.CoreCompileInputs.cache
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.AssemblyInfoInputs.cache
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.AssemblyInfo.cs
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.csproj.CopyComplete
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.dll
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.pdb
+D:\NewProject\CouponManagement\4BC-CouponManagement\SHR_DBEntity\obj\Debug\netcoreapp3.1\CouponManagementDBEntity.genruntimeconfig.cache

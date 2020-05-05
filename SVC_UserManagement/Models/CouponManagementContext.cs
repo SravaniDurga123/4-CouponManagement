@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace CouponManagementDBEntity.Models
+namespace UserManagement.Models
 {
     public partial class CouponManagementContext : DbContext
     {
@@ -32,9 +32,7 @@ namespace CouponManagementDBEntity.Models
             modelBuilder.Entity<CouponDetails>(entity =>
             {
                 entity.HasKey(e => e.CouponId)
-                    .HasName("PK__CouponDe__384AF1BA99FEAED3");
-
-                entity.Property(e => e.CouponId).ValueGeneratedNever();
+                    .HasName("PK__CouponDe__384AF1BA1B25FEAF");
 
                 entity.Property(e => e.CouponExpiredDate).HasColumnType("datetime");
 
@@ -57,16 +55,16 @@ namespace CouponManagementDBEntity.Models
                 entity.HasOne(d => d.User)
                     .WithMany(p => p.CouponDetails)
                     .HasForeignKey(d => d.UserId)
-                    .HasConstraintName("FK__CouponDet__UserI__1B0907CE");
+                    .HasConstraintName("FK__CouponDet__UserI__300424B4");
             });
 
             modelBuilder.Entity<UserDetails>(entity =>
             {
                 entity.HasKey(e => e.UserId)
-                    .HasName("PK__UserDeta__1788CC4CA219B099");
+                    .HasName("PK__UserDeta__1788CC4C367E4FCF");
 
                 entity.HasIndex(e => e.UserName)
-                    .HasName("UQ__UserDeta__C9F28456AFC80286")
+                    .HasName("UQ__UserDeta__C9F284560F09F1D9")
                     .IsUnique();
 
                 entity.Property(e => e.CreateDate).HasColumnType("datetime");
@@ -96,7 +94,6 @@ namespace CouponManagementDBEntity.Models
                     .IsUnicode(false);
 
                 entity.Property(e => e.UserName)
-                    .IsRequired()
                     .HasMaxLength(30)
                     .IsUnicode(false);
 
