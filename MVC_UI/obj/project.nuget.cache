@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yzoyDbwcv3ybxvsTjquCTHKcM7MM5ePFpCEZyPk9gsDV7VmiKRPbqgkgFyvR/ZCL/0+Nq2aZnlM9I0xJVB/PxA==",
+  "dgSpecHash": "Fo1PAdCbeKvURXRHMIum723j3YbC0n3M5J5ivIBiCkmiq/uyaJkScV9Q9VgireAnpdQbzvKuUCOSNcs91MSCbw==",
   "success": true,
-  "projectFilePath": "E:\\CouponManagement\\MVC_UI\\MVC_UI.csproj",
+  "projectFilePath": "C:\\Users\\Maragani jagadeesh\\Contacts\\Desktop\\CasrStudy@CouponManagement\\CouponsManagement\\MVC_UI\\MVC_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maragani jagadeesh\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Maragani jagadeesh\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

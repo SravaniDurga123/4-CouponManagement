@@ -165,10 +165,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "IKVM": {
-              "target": "Package",
-              "version": "[8.1.5717, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -178,10 +174,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.2, )"
-            },
-            "Nancy": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

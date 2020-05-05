@@ -6076,11 +6076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CouponManagement\\MVC_UI\\MVC_UI.csproj",
+      "projectUniqueName": "C:\\Users\\Maragani jagadeesh\\Contacts\\Desktop\\CasrStudy@CouponManagement\\CouponsManagement\\MVC_UI\\MVC_UI.csproj",
       "projectName": "MVC_UI",
-      "projectPath": "E:\\CouponManagement\\MVC_UI\\MVC_UI.csproj",
+      "projectPath": "C:\\Users\\Maragani jagadeesh\\Contacts\\Desktop\\CasrStudy@CouponManagement\\CouponsManagement\\MVC_UI\\MVC_UI.csproj",
       "packagesPath": "C:\\Users\\Maragani jagadeesh\\.nuget\\packages\\",
-      "outputPath": "E:\\CouponManagement\\MVC_UI\\obj\\",
+      "outputPath": "C:\\Users\\Maragani jagadeesh\\Contacts\\Desktop\\CasrStudy@CouponManagement\\CouponsManagement\\MVC_UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maragani jagadeesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
